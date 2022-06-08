@@ -5,8 +5,16 @@
 }
 
 body {
-    font: Arial, Helvetica, sans-serif;
-    color: white;
-    background-color: black;
+    font: 16px 'Helvetica Neue', Arial , sans-serif;
+    color: #c5c5e6;
+    background-color: #333;
+
+    a {
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #8d8de7;
+        padding: 2px;
+    }
+
 }
 
